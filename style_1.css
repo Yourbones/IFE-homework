@@ -1,0 +1,17 @@
+body {
+	width: 90%;
+	max-width: 900px;
+	margin: 0, auto;
+}
+.doc-title {
+	font-size: 1.5rem;
+}
+.info p {
+	display: inline;
+}
+.contact p {
+	display: inline;
+}
+.title {
+	font-size: 1.4rem;
+}

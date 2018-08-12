@@ -1,0 +1,55 @@
+body {
+	width:90%;
+	max-width: 900px;
+	margin: 0 auto;
+}
+.doc-title {
+	width: 100%;
+	border: 1px solid #E6E6E6;
+	background-color: #858585;
+	color: #fff;
+	text-align: left;
+	padding-left: 3%;
+}
+.content p {
+	display: inline;
+}
+.title {
+	width: 13%;
+	text-align: center;
+	background-color: #D6D6D6;
+	padding-bottom: 1.8rem;
+	padding-top: 1.5rem;
+}
+.details {
+	padding-left: 1rem;
+	padding-top: 1rem;
+	width: 87%;
+}
+.info {
+	width: 103%;
+	display: flex;
+	border: 1px solid #E6E6E6;
+}
+.contact {
+	width: 103%;
+	display: flex;
+	border: 1px solid #E6E6E6;
+}
+.ability {
+	width: 103%;
+	display: flex;
+	border: 1px solid #E6E6E6;
+}
+.edu {
+	width: 103%;
+	display: flex;
+	border: 1px solid #E6E6E6;
+}
+.project {
+	width: 103%;
+	display: flex;
+	border: 1px solid #E6E6E6;
+}
+
+

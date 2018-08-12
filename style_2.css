@@ -1,0 +1,37 @@
+
+body {
+	width:90%;
+	max-width: 900px;
+	margin: 0 auto;
+}
+.doc-title {
+	width: 21%;
+	float: left;
+	padding-top: 1.8rem;
+	padding-bottom: 50rem;
+	background-color: #65A5FA;
+	text-align: center;
+	color: #fff;
+	font-size: 1.5rem;
+}
+.content {
+	width: 75%;
+	float: right;
+	padding-bottom: 0;
+}
+.title {
+	font-size: 1.4rem;
+}
+.info p {
+	display: inline;
+	font-size: 1.2rem;
+	margin-right: 0.5rem;
+}
+.contact p {
+	display: inline;
+	font-size: 1.2rem;
+	margin-right: 0.5rem;
+}
+.skill,.pri,.pro-one {
+	margin-bottom: 0.8rem; 
+}
